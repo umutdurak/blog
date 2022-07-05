@@ -15,6 +15,8 @@ keywords: "dummy content"
 - Inside `_posts` folder, there are sample of blog entries. Learn from it and start yours.
 - Now, visit `http://your_username.github.io` and you should see your blog running.
 
+Here is umut writing a sentence
+
 ### Use this theme as a project page
 
 If you want to use this theme as a project page blog, you don't need to rename the theme repo into `your_username.github.io`.
