@@ -1,26 +1,17 @@
 ---
 layout: post
-title: "DIY Renovation at Home"
+title: "DIY Renovations at Home"
 comments: true
 description: "What I learned from my DIY Renovation endevour at home"
 keywords: "DIY"
 ---
 
-### Use this theme as you main site
+All this story goes back to the time when we started to think about buying a house. We figured out fast that it is close to impossible to build a new house as we like, in a neighbourhood we want, within a reasonable time window, say in our life time. Then came the next step, find an existing one, that is close enough to our "dreams". There has been always a delta at all the houses we looked. After each house visit, I started to spend some time to imagine how I can renovate the Object under Consideration by myself. Germany has a well established tradition about DIY. I have friends who literally built their own houses from the ground as DIY project. There are others who made major renovations, such as changing the room layout. You feel yourself like all are possible. They definetly are. But how, or better asked, at which cost? 
 
-- Download or fork the master branch of this theme repo into your GitHub account.
-- Rename the repo into something like `your_username.github.io`.
-- Edit `_config.yml` file to your preferences.
-- Edit `about.md` file for your About page.
-- Inside `_posts` folder, there are sample of blog entries. Learn from it and start yours.
-- Now, visit `http://your_username.github.io` and you should see your blog running.
+We bought our house couple of months ago. I am a big fan of iterative development. I took the smallest, easiest challange. By the way, it may be the right time to say, that I am the guy with two left hands. Even I had times, that I was into some DIY projects, there had been always some other priorities. I did not have the chance to develop myself at any trade. Back to the story, I said, let me do the painting; not all of them though. I spared two rooms for me as an opportinity to learn, or experience. And I asked a professional to do another bit, almost twice the size of my part. Painting walls to white, how hard, or complicated can it be? It is not. But if you know nothing about it, it is lots of hours in front of YouTube. I exegerate, but I may have spent half the time I did the work, on YouTube watching. Thereafter, I made all the mistakes that they warn you in YouTube videos. Surely not intentionally. I was actually quite defensive. For example, I probably made over masking. That costed me a great deal of time. At the end, I needed four days for two rooms, while the professional made twive the work in a day. The quality of the work was also not to compare. Even for a simple white painting, one can see it clearly.
 
-Here is umut writing a sentence
+I luckily had some time pressure. Therefore, I quited the idea to do the refurbishing of the wooden floor to myself and let it done. There I figured out a very critical aspect. The machine I was planning to rent (Thanks again to YouTube videos and nice blog posts in Baumarkt web sites) was overr 90 kilos. A DIY effort could be a strugle with tear and blood from the time zero. 
 
-### Use this theme as a project page
+My third data point was removal of the existing carpet. That was also something I was planning to do until I figurerd out how hard and messy it is when the old carpet is fixed to the floor with a strong adhasive. Luckily, I could access help very fast.
 
-If you want to use this theme as a project page blog, you don't need to rename the theme repo into `your_username.github.io`.
-
-All you need to do, open `_config.yml` file, change `baseurl` to your project name which contains this theme, e.g. `baseurl: "/myproject"`.
-
-#### Cheers!
+My iterative exercise is slowly leading me to a point that I will be rather conservetive about the size of my DIY projects. All is surely doable. However, the time I would need for the work is easily many times as a professional will require. It is not that I do not like to watch YouTube videos, but there is a fast forward in this 15 minutes world you see. That then yields to days of physical work. That is why, I will be tending more to DIY project that may be finished in a weekend. Thereby, I can also see the end of the tunel when I start it. The second aspect is the quality. The quality of my DIY project should not be critical. The errors of the painting is nothing at my study, but would be quite ugly to see them in the living room. Sometimes, fixing DIY problems may cost even more than the work itself. 
