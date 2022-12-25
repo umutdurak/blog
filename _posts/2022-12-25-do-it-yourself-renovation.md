@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "How to Download or Use This Theme"
+title: "DIY Renovation at Home"
 comments: true
-description: "How to Download or Use This Theme"
-keywords: "dummy content"
+description: "What I learned from my DIY Renovation endevour at home"
+keywords: "DIY"
 ---
 
 ### Use this theme as you main site
